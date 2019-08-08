@@ -23,9 +23,9 @@ As the authors of <em>Exploring Big Historical Data </em>outline in Chapter 7, h
 
 1-We will be working with sample networked data sets based on the <a href="http://www.oxforddnb.com/">Oxford Dictionary of National Biography</a> and the <a href="http://www.sixdegreesoffrancisbacon.com/">Six Degrees of Francis Bacon</a> project. These data sets include a list of names and relationships for early seventeenth-century Quakers.
 
-2-Navigate to \storageprojectsHISHIS-295-02Quaker_Network_Data and copy the quakers_nodelist and quakers_edgelist CSV files to your Desktop.
+2-Download the the quakers_nodelist and quakers_edgelist CSV files from this repository 
 
-3-Or, visit <a href="http://sarahjpurcell.sites.grinnell.edu/digital_methods/files/">http://sarahjpurcell.sites.grinnell.edu/digital_methods/files/</a> and download the same files.
+3-Save the files to your Desktop.
 
 4-Open these files in Microsoft Excel to explore the data structure.
 
